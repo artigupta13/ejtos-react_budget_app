@@ -37,3 +37,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+#plus{
+  color: white;
+  height: 10%;
+  width: 10%;
+  background-color: green;
+  font-weight: bold;
+  border: none;
+  border-radius: 50%;
+}
+
+
+#decrease{
+  color: white;
+  height: 10%;
+  width: 10%;
+  font-weight: bold;
+  background-color: red;
+  border-radius: 50%;
+}
+
+#delete{
+  color: white;
+  height: 15%;
+  width: 15%;
+  font-weight: bold;
+  background-color: black;
+  border-radius: 50%;
+}
